@@ -1,6 +1,6 @@
-# main
-Main course repository for CS585: NLP at IIT
+# CS585: Natural Language Processing
 
+[Illinois Institute of Technology](http://cs.iit.edu)
 
 ### Texts
 
