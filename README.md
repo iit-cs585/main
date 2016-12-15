@@ -15,3 +15,5 @@
 - [Stanford I](http://cs224d.stanford.edu/syllabus.html)
 - [Stanford II](http://web.stanford.edu/class/cs224n/)
 - [Berkeley](https://people.eecs.berkeley.edu/~klein/cs288/sp10/)
+- [UTexas](https://www.cs.utexas.edu/~mooney/cs388/syllabus.html)
+- [Columbia](http://www.cs.columbia.edu/~kathy/NLP/)
