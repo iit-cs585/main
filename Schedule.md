@@ -2,7 +2,7 @@
 
 | Date  | Topic                      | Readings                      | Due           | Lecture      |
 | ----- |----------------------------|-------------------------------|---------------|--------------|
-| 1/10  | Overview  / FSAs           |                               |               |[L01](lec/l01)|
+| 1/10  | Overview  / FSAs           | [JM1](read/JM.pdf)            |               |[L01](lec/l01)|
 | 1/12  | Morphology / FSTs          |                               |               |[L02](lec/l02)|
 | 1/17  | Syntax / Parsing           |                               |               |[L03](lec/l03)|
 | 1/19  | Syntax / Parsing           |                               |               |[L04](lec/l04)|
