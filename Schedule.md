@@ -1,12 +1,13 @@
 
+
 | Date  | Topic                      | Readings                      | Due           | Lecture      |
 | ----- |----------------------------|-------------------------------|---------------|--------------|
 | 1/10  | Overview                   |                               |               |[L01](lec/l01)|
 | 1/12  |                            |                               |               |[L02](lec/l02)|
 | 1/17  |                            |                               |               |[L03](lec/l03)|
 | 1/19  |                            |                               |               |[L04](lec/l04)|
-| 1/24  |                            |                               |               |[L05](lec/l05)|
-| 1/26  |                            |                               |               |[L06](lec/l06)|
+| 1/24  |                            |                               |               |               |[L05](lec/l05)|
+| 1/26  |                            |                               | [A1](https://github.com/iit-cs585/assignments/tree/master/a1)                |[L06](lec/l06)|
 | 1/31  |                            |                               |               |[L07](lec/l07)|
 | 2/02  |                            |                               |               |[L08](lec/l08)|
 | 2/07  |                            |                               |               |[L09](lec/l09)|
@@ -14,7 +15,7 @@
 | 2/14  |                            |                               |               |[L11](lec/l11)|
 | 2/16  |                            |                               |               |[L12](lec/l12)|
 | 2/21  |                            |                               |               |[L13](lec/l13)|
-| 2/23  |                            |                               |               |[L14](lec/l14)|
+| 2/23  |                            |                               | [A2](https://github.com/iit-cs585/assignments/tree/master/a2)                        |[L14](lec/l14)|
 | 2/28  |    / Review                |                               |               |[L15](lec/l15)|
 | 3/02  |  **Test 1**                |                               |               |              |
 | 3/07  |                            |                               |               |[L16](lec/l16)|
@@ -22,15 +23,19 @@
 | 3/14  |  **Spring Break**          |                               |               |              |
 | 3/16  |  **Spring Break**          |                               |               |              |
 | 3/21  |                            |                               |               |[L18](lec/l18)|
-| 3/23  |                            |                               |               |[L19](lec/l19)|
+| 3/23  |                            |                               | [A3](https://github.com/iit-cs585/assignments/tree/master/a3)              |[L19](lec/l19)|
 | 3/28  |                            |                               |               |[L20](lec/l20)|
 | 3/30  |                            |                               |               |[L21](lec/l21)|
 | 4/04  |                            |                               |               |[L22](lec/l22)|
 | 4/06  |                            |                               |               |[L23](lec/l23)|
-| 4/11  |                            |                               |               |[L24](lec/l24)|
+| 4/11  |                            |                               | [A4](https://github.com/iit-cs585/assignments/tree/master/a4)              |[L24](lec/l24)|
 | 4/13  |  / Review                  |                               |               |[L25](lec/l25)|
 | 4/18  |                            |                               |               |[L26](lec/l26)|
 | 4/20  | **Test 2**                 |                               |               |              |
 | 4/25  | **Presentations**          |                               |               |              |
 | 4/27  | **Presentations**          |                               |               |              |
+
+
+
+
 
