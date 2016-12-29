@@ -8,6 +8,21 @@
 - [Natural Language Processing with Python](http://www.nltk.org/book/), Byrd et al.
 - [Deep Learning](http://www.deeplearningbook.org), Goodfellow et al.
 
+**Grading:**
+
+200 points - [Assignments](https://github.com/iit-cs585/assignments) (4 @ 50 points each)  
+100 points - Quizzes (4 @ 25 points each)  
+100 points - Test 1  
+100 points - Test 2  
+100 points - Project
+**600 total points**
+
+| **Percent** | **Grade** |
+|-------------|-----------|
+| 100-90      | A         |
+| 89-80       | B         |
+| 79-70       | C         |
+| < 70        | E         |
 
 ### Related courses
 
