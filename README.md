@@ -14,7 +14,7 @@
 100 points - Quizzes (4 @ 25 points each)  
 100 points - Test 1  
 100 points - Test 2  
-100 points - Project
+100 points - Project  
 **600 total points**
 
 | **Percent** | **Grade** |
