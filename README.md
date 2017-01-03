@@ -27,7 +27,8 @@
 ### Related courses
 
 - [UMD](http://www.umiacs.umd.edu/~hal/courses/2012F_CL1/)
-- [UMass](https://people.cs.umass.edu/~mccallum/courses/inlp2007/syllabus.html)
+- [UMass I](https://people.cs.umass.edu/~mccallum/courses/inlp2007/syllabus.html)
+- [UMass II](http://people.cs.umass.edu/~brenocon/inlp2016/)
 - [Stanford I](http://cs224d.stanford.edu/syllabus.html)
 - [Stanford II](http://web.stanford.edu/class/cs224n/)
 - [Berkeley](https://people.eecs.berkeley.edu/~klein/cs288/sp10/)
