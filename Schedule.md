@@ -6,13 +6,13 @@
 | 1/12  | Morphology / FSTs          |[JM](read/JM.pdf)3             |               |[L02](lec/l02)|
 | 1/17  | Syntax / Parsing           |[JM](read/JM.pdf)9             |               |[L03](lec/l03)|
 | 1/19  | Syntax / Parsing           |[JM](read/JM.pdf)10            |               |[L04](lec/l04)|
-| 1/24  | Language Models            |[JM](read/JM.pdf)6             |               |[L05](lec/l05)|
-| 1/26  | Naive Bayes                |[JM](read/JM.pdf)6             |[A1](https://github.com/iit-cs585/assignments/tree/master/a1)               |[L06](lec/l06)|
-| 1/31  | HMMs / Part-of-speech      |[JM](read/JM.pdf)7.1-7.5       | Q1            |[L07](lec/l07)|
-| 2/02  | EM for POS                 |[JM](read/JM.pdf)8.1-8.6       |               |[L08](lec/l08)|
+| 1/24  | Language Models            |[JMv3v4](https://web.stanford.edu/~jurafsky/slp3/4.pdf) |               |[L05](lec/l05)|
+| 1/26  | Naive Bayes                |[JMv3Ch6](https://web.stanford.edu/~jurafsky/slp3/6.pdf) |[A1](https://github.com/iit-cs585/assignments/tree/master/a1)               |[L06](lec/l06)|
+| 1/31  | HMMs / Part-of-speech      |[JMv3Ch9](https://web.stanford.edu/~jurafsky/slp3/9.pdf) | Q1            |[L07](lec/l07)|
+| 2/02  | EM for POS                 |[JMv3Ch9](https://web.stanford.edu/~jurafsky/slp3/9.pdf) |               |[L08](lec/l08)|
 | 2/07  | PCFGs                      |[JM](read/JM.pdf)12            |               |[L09](lec/l09)|
 | 2/09  | PCFGs                      |[JM](read/JM.pdf)12            | Proposal      |[L10](lec/l10)|
-| 2/14  | Logistic Regression        | notes                         |               |[L11](lec/l11)|
+| 2/14  | Logistic Regression        |[JMv3Ch7](https://web.stanford.edu/~jurafsky/slp3/7.pdf) |               |[L11](lec/l11)|
 | 2/16  | LR for Named Entity Rec.   | notes                         |               |[L12](lec/l12)|
 | 2/21  | Coreference Resolution     | notes                         | [A2](https://github.com/iit-cs585/assignments/tree/master/a2)|[L13](lec/l13)|
 | 2/23  | Machine Transl. / Review   | [JM](read/JM.pdf)21           | Q2             |[L14](lec/l14)|
