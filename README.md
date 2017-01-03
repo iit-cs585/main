@@ -5,7 +5,7 @@
 **If you've joined the class late, please check Blackboard for announcements, and please complete the [course survey](https://goo.gl/6euu6p) ASAP.**
 
 
-**Course:** CS 585: Natural Language Processing
+**Course:** CS 585: Natural Language Processing  
 **Instructor:** [Dr. Aron Culotta](http://cs.iit.edu/~culotta)  
 **Meetings:** 1:50 - 3:05 pm T/R Stuart Building 113
 **E-mail:** culotta at cs.iit.edu  
