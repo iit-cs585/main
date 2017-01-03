@@ -4,7 +4,7 @@
 
 ### Texts
 
-- [Speech and Language Processing](http://www.deepsky.com/~merovech/voynich/voynich_manchu_reference_materials/PDFs/jurafsky_martin.pdf), Jurafsky & Martin
+- [Speech and Language Processing](http://www.deepsky.com/~merovech/voynich/voynich_manchu_reference_materials/PDFs/jurafsky_martin.pdf), Jurafsky & Martin (we'll use parts of the [1st edition](http://www.deepsky.com/~merovech/voynich/voynich_manchu_reference_materials/PDFs/jurafsky_martin.pdf) as well as the [3rd edition](https://web.stanford.edu/~jurafsky/slp3/), which is in progress).
 - [Natural Language Processing with Python](http://www.nltk.org/book/), Byrd et al.
 - [Deep Learning](http://www.deeplearningbook.org), Goodfellow et al.
 
