@@ -16,7 +16,7 @@
 | 2/16  | LR for Named Entity Rec.   | notes                         |               |[L12](lec/l12)|
 | 2/21  | Coreference Resolution     | notes                         | [A2](https://github.com/iit-cs585/assignments/tree/master/a2)|[L13](lec/l13)|
 | 2/23  | Machine Transl. / Review   | [JM](read/JM.pdf)21           | Q2             |[L14](lec/l14)|
-| 2/28  | Neural Nets                | [G6](http://www.deeplearningbook.org/contents/mlp.html) |[L15](lec/l15)|
+| 2/28  | Neural Nets                | [G6](http://www.deeplearningbook.org/contents/mlp.html) | | [L15](lec/l15)|
 | 3/02  |  **Test 1**                |                               |               |              |
 | 3/07  | Neural Nets                | [G6](http://www.deeplearningbook.org/contents/mlp.html)|               |[L16](lec/l16)|
 | 3/09  | Distributed Word Repr.     | [G6](http://www.deeplearningbook.org/contents/mlp.html) |               |[L17](lec/l17)|
