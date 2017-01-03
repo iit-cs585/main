@@ -7,7 +7,7 @@
 
 **Course:** CS 585: Natural Language Processing  
 **Instructor:** [Dr. Aron Culotta](http://cs.iit.edu/~culotta)  
-**Meetings:** 1:50 - 3:05 pm T/R Stuart Building 113
+**Meetings:** 1:50 - 3:05 pm T/R Stuart Building 113  
 **E-mail:** culotta at cs.iit.edu  
 **Phone:** 312-567-5261  
 **Office Hours:** T/R 11:00 a.m. - 12:00 p.m.  
