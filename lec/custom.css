@@ -16,42 +16,6 @@ div#site {
 .container { width:90% !important; }
 
 
-
-
-/**
-@font-face {
- font-family: 'Droid Sans Mono';
- font-weight: normal;
- font-style: normal;
- src: local('Droid Sans Mono'), url('./fonts/droid-sans-mono.woff') format('woff');
-}
-@font-face {
- font-family: 'Exo_2';
- font-weight: normal;
- font-style: normal;
- src: local('Exo_2'), url('./fonts/exo-II-regular.ttf') format('truetype');
-}
-*/
-
-/** 
-@font-face {
- font-family: 'Fira Code';
- font-weight: normal;
- font-style: normal;
- src: url('https://cdn.rawgit.com/tonsky/FiraCode/master/distr/ttf/FiraCode-Regular.ttf');
- src: local('Fira Code'), url('./fonts/firacode.otf') format('opentype');
-}
-**/
-
-/**
-@font-face {
- font-family: 'Lora';
- font-weight: normal;
- font-style: normal;
- src: local('Lora'), url('./fonts/Lora-Regular.ttf') format('truetype');
-}
-*/
-
 div#notebook {
  font-family: "Exo_2", sans-serif;
  font-size: 13pt;
