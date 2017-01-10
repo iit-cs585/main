@@ -25,7 +25,7 @@
 | 3/21  | Recurrent Neural Nets      | [G10](http://www.deeplearningbook.org/contents/rnn.html) |[A3](https://github.com/iit-cs585/assignments/tree/master/a3)|[L18](lec/l18)|
 | 3/23  | RNNs for POS               |  [G10](http://www.deeplearningbook.org/contents/rnn.html) | Q3            |[L19](lec/l19)|
 | 3/28  | Recursive Neural Nets      |  [G10](http://www.deeplearningbook.org/contents/rnn.html) |               |[L20](lec/l20)|
-| 3/30  | RecNNs / Parsing           |  [G10](http://www.deeplearningbook.org/contents/rnn.html) |               |[L21](lec/l21)|
+| 3/30  | RecNNs / Parsing           |  [G10](http://www.deeplearningbook.org/contents/rnn.html) | Proj Milestone              |[L21](lec/l21)|
 | 4/04  | LSTM                       |  [G10](http://www.deeplearningbook.org/contents/rnn.html)  |               |[L22](lec/l22)|
 | 4/06  | LSTM / Translation         |  [TF](https://www.tensorflow.org/versions/r0.10/tutorials/seq2seq/) |[A4](https://github.com/iit-cs585/assignments/tree/master/a4) |[L23](lec/l23)|
 | 4/11  | Language Generation        |[SMH](http://www.cs.utoronto.ca/~ilya/pubs/2011/LANG-RNN.pdf) | Q4            |[L24](lec/l24)|
