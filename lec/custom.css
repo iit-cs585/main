@@ -18,14 +18,14 @@ div#site {
 
 div#notebook {
  font-family: "Exo_2", sans-serif;
- font-size: 13pt;
+ font-size: 20pt;
  line-height: 170%;
  color: #303030;
 }
 body,
 div.body {
  font-family: "Exo_2", sans-serif;
- font-size: 13pt;
+ font-size: 20pt;
  color: #303030;
  background-color: #ffffff;
  background: #ffffff;
@@ -47,13 +47,13 @@ a:focus {
 }
 .list_header,
 div#notebook_list_header.row.list_header {
- font-size: 14pt;
+ font-size: 20pt;
  color: #2f2f2f;
  background-color: #ffffff;
 }
 div#cluster_list_header.row.list_header,
 div#running .row.list_header {
- font-size: 14pt;
+ font-size: 20pt;
  color: #303030;
  background: #eeeeee;
  background-color: #eeeeee;
@@ -267,7 +267,7 @@ ul#tabs a {
 }
 div#notebook {
  font-family: "Exo_2", sans-serif;
- font-size: 13pt;
+ font-size: 20pt;
  padding-top: 4px;
 }
 .notebook_app {
@@ -301,7 +301,7 @@ div#ipython-main-app.container {
 }
 #header {
  font-family: "Exo_2", sans-serif;
- font-size: 13pt;
+ font-size: 22pt;
  box-shadow: none;
  background-color: #ffffff;
 }
@@ -1053,7 +1053,7 @@ div.text_cell,
 div.text_cell_render pre,
 div.text_cell_render {
  font-family: "Lora", serif;
- font-size: 13pt;
+ font-size: 20pt;
  line-height: 170% !important;
  color: #353535;
  background: #ffffff;
