@@ -12,6 +12,9 @@ div#site {
     height: 100% !important;
 }
 
+strong {
+  font-weight: 900 !important;
+}
 
 .container { width:90% !important; }
 
