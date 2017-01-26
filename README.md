@@ -12,7 +12,7 @@
 **Phone:** 312-567-5261  
 **Office Hours:** T/R 11:00 a.m. - 12:00 p.m.  
 **Office:** Stuart Hall 229B  
-**TAs:**  TBD
+**TAs:**  Sihan Zhao (szhao31 at hawk); office hours W 11:00 a.m. - 12:00 p.m.
 
 **See the [Schedule](Schedule.md) for a detailed list of readings and due dates.**
 
