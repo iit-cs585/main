@@ -13,7 +13,7 @@
 | 2/07  | PCFGs                      |[JM](read/JM.pdf)12            |               |[L09](lec/l09)|
 | 2/09  | PCFGs                      |[JM](read/JM.pdf)12            | [Proposal](https://github.com/iit-cs585/assignments/tree/master/project)      |[L10](lec/l10)|
 | 2/14  | Logistic Regression        |[JMv3Ch7](https://web.stanford.edu/~jurafsky/slp3/7.pdf) |               |[L11](lec/l11)|
-| 2/16  | LR for Named Entity Rec.   | notes                         |               |[L12](lec/l12)|
+| 2/16  | LR for Named Entity Rec.   | [JMv3Ch21.1](https://web.stanford.edu/~jurafsky/slp3/21.pdf)                         |               |[L12](lec/l12)|
 | 2/21  | Coreference Resolution     | notes                         | [A2](https://github.com/iit-cs585/assignments/tree/master/a2)|[L13](lec/l13)|
 | 2/23  | Machine Transl. / Review   | [JM](read/JM.pdf)21           | Q2             |[L14](lec/l14)|
 | 2/28  | Neural Nets                | [G6](http://www.deeplearningbook.org/contents/mlp.html) | | [L15](lec/l15)|
