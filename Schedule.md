@@ -15,7 +15,8 @@
 | 2/14  | Logistic Regression        |[JMv3Ch7](https://web.stanford.edu/~jurafsky/slp3/7.pdf) |               |[L11](lec/l11)|
 | 2/16  | LR for Named Entity Rec.   | [JMv3Ch21.1](https://web.stanford.edu/~jurafsky/slp3/21.pdf)                         |               |[L12](lec/l12)|
 | 2/21  | Coreference Resolution     | notes                         | [A2](https://github.com/iit-cs585/assignments/tree/master/a2)|[L13](lec/l13)|
-| 2/23  | Machine Transl. / Review   | [JM](read/JM.pdf)21           | Q2             |[L14](lec/l14)|
+| 2/23  | Machine Transl. / Review   | [JM](read/JM.pdf)21           |                |[L14](lec/l14)|
+| 2/24  | --                         |                               | Q2             |              |
 | 2/28  | Neural Nets                | [G6](http://www.deeplearningbook.org/contents/mlp.html) | | [L15](lec/l15)|
 | 3/02  |  **Test 1**                |                               |               |              |
 | 3/07  | Neural Nets                | [G6](http://www.deeplearningbook.org/contents/mlp.html)|               |[L16](lec/l16)|
@@ -32,8 +33,9 @@
 | 4/13  | Language Gen. / Review     |                               |               |[L25](lec/l25)|
 | 4/18  | The Future                 |                               |               |[L26](lec/l26)|
 | 4/20  | **Test 2**                 |                               |               |              |
-| 4/25  | **Presentations**          |                               |               |              |
-| 4/27  | **Presentations**          |                               | [Report](https://github.com/iit-cs585/assignments/tree/master/project)        |              |
+| 4/25  | No Class                   |                               |               |              |
+| 4/27  | No Class                   |                               | [Report](https://github.com/iit-cs585/assignments/tree/master/project)        |              |
+| 5/4   | **Presentations**          |         |             |          |
 
 
 
