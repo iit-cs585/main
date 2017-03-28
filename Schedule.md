@@ -24,16 +24,17 @@
 | 3/14  |  **Spring Break**          |                               |               |              |
 | 3/16  |  **Spring Break**          |                               |               |              |
 | 3/21  | Recurrent Neural Nets      | [G10](http://www.deeplearningbook.org/contents/rnn.html) |[A3](https://github.com/iit-cs585/assignments/tree/master/a3)|[L18](lec/l18)|
-| 3/23  | RNNs for POS               |  [G10](http://www.deeplearningbook.org/contents/rnn.html) | Q3            |[L19](lec/l19)|
-| 3/28  | Recursive Neural Nets      |  [G10](http://www.deeplearningbook.org/contents/rnn.html) |               |[L20](lec/l20)|
-| 3/30  | RecNNs / Parsing           |  [G10](http://www.deeplearningbook.org/contents/rnn.html) | [Proj Milestone](https://github.com/iit-cs585/assignments/tree/master/project)              |[L21](lec/l21)|
-| 4/04  | LSTM                       |  [G10](http://www.deeplearningbook.org/contents/rnn.html)  |               |[L22](lec/l22)|
-| 4/06  | LSTM / Translation         |  [TF](https://www.tensorflow.org/versions/r0.10/tutorials/seq2seq/) |[A4](https://github.com/iit-cs585/assignments/tree/master/a4) |[L23](lec/l23)|
-| 4/11  | Language Generation        |[SMH](http://www.cs.utoronto.ca/~ilya/pubs/2011/LANG-RNN.pdf) | Q4            |[L24](lec/l24)|
-| 4/13  | Language Gen. / Review     |                               |               |[L25](lec/l25)|
+| 3/23  | RNNs for POS               |  [G10](http://www.deeplearningbook.org/contents/rnn.html) |             |[L19](lec/l19)|
+| 3/28  | LSTM     |  [Lipton](https://arxiv.org/abs/1506.00019) |               |[L20](lec/l20)|
+| 3/30  | LSTM / Translation           |  [G10](http://www.deeplearningbook.org/contents/rnn.html) | [Proj Milestone](https://github.com/iit-cs585/assignments/tree/master/project)              |[L21](lec/l21)|
+| 4/1   |    |   | Q3 |
+| 4/04  | Recursive Neural Nets                        |  [G10](http://www.deeplearningbook.org/contents/rnn.html)  |               |[L22](lec/l22)|
+| 4/06  | RecNNs / Parsing         |  [TF](https://www.tensorflow.org/versions/r0.10/tutorials/seq2seq/) ||[L23](lec/l23)|
+| 4/11  | Language Generation        |[SMH](http://www.cs.utoronto.ca/~ilya/pubs/2011/LANG-RNN.pdf) | [A4](https://github.com/iit-cs585/assignments/tree/master/a4)             |[L24](lec/l24)|
+| 4/13  | Language Gen. / Review     |                               |    Q4           |[L25](lec/l25)|
 | 4/18  | The Future                 |                               |               |[L26](lec/l26)|
 | 4/20  | **Test 2**                 |                               |               |              |
-| 4/25  | No Class                   |                               |               |              |
+| 4/25  | No Class                   |                               |   [Bonus](https://github.com/iit-cs585/assignments/tree/master/bonus)            |              |
 | 4/27  | No Class                   |                               | [Report](https://github.com/iit-cs585/assignments/tree/master/project)        |              |
 | 5/4   | **Presentations**          |         |             |          |
 
