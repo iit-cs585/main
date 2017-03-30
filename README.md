@@ -84,3 +84,6 @@ j. An ability to apply mathematical foundations, algorithmic principles, and com
 - [Berkeley](https://people.eecs.berkeley.edu/~klein/cs288/sp10/)
 - [UTexas](https://www.cs.utexas.edu/~mooney/cs388/syllabus.html)
 - [Columbia](http://www.cs.columbia.edu/~kathy/NLP/)
+- https://github.com/ageron/handson-ml
+- https://www.coursera.org/learn/neural-networks
+- https://www.coursera.org/learn/machine-learning/
