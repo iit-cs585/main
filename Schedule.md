@@ -29,7 +29,7 @@
 | 3/30  | LSTM / Translation           |  [G10](http://www.deeplearningbook.org/contents/rnn.html) | [Proj Milestone](https://github.com/iit-cs585/assignments/tree/master/project)              |[L21](lec/l21)|
 | 4/04  | Recursive Neural Nets                        |  [G10](http://www.deeplearningbook.org/contents/rnn.html)  |               |[L22](lec/l22)|
 | 4/06  | Convolutional Nets         | [G09](http://www.deeplearningbook.org/contents/convnets.html)  | Q3 |[L23](lec/l23)| 
-| 4/11  | Language Generation        |[SMH](http://www.cs.utoronto.ca/~ilya/pubs/2011/LANG-RNN.pdf) |     |[L24](lec/l24)|
+| 4/11  | Project Tips        | |     |[L24](lec/l24)|
 | 4/13  | Language Gen. / Review     |                               |                          |[L25](lec/l25)|
 | 4/18  | The Future                 |                               |               |[L26](lec/l26)|
 | 4/20  | **Test 2**                 |                               |               |              |
