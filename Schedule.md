@@ -35,6 +35,7 @@
 | 4/20  | **Test 2**                 |                               |               |              |
 | 4/25  | No Class                   |                               |   [A4](https://github.com/iit-cs585/assignments/tree/master/a4)            |              |
 | 4/27  | No Class                   |                               | [Report](https://github.com/iit-cs585/assignments/tree/master/project)        |              |
+| 5/3   |           |         |      [presentation.pdf](https://github.com/iit-cs585/assignments/tree/master/project)       |          |
 | 5/4   | **Presentations**          |         |             |          |
 
 
