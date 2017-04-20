@@ -79,6 +79,8 @@ j. An ability to apply mathematical foundations, algorithmic principles, and com
 - [UMD](http://www.umiacs.umd.edu/~hal/courses/2012F_CL1/)
 - [UMass I](https://people.cs.umass.edu/~mccallum/courses/inlp2007/syllabus.html)
 - [UMass II](http://people.cs.umass.edu/~brenocon/inlp2016/)
+- [UMass III](http://people.cs.umass.edu/~brenocon/anlp2017/)
+- [GaTech](https://github.com/jacobeisenstein/gt-nlp-class/)
 - [Stanford I](http://cs224d.stanford.edu/syllabus.html)
 - [Stanford II](http://web.stanford.edu/class/cs224n/)
 - [Berkeley](https://people.eecs.berkeley.edu/~klein/cs288/sp10/)
