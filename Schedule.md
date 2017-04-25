@@ -33,8 +33,9 @@
 | 4/13  | Language Gen. / Review     |                               |                          |[L25](lec/l25)|
 | 4/18  | The Future                 |                               |               |[L26](lec/l26)|
 | 4/20  | **Test 2**                 |                               |               |              |
-| 4/25  | No Class                   |                               |   [A4](https://github.com/iit-cs585/assignments/tree/master/a4)            |              |
-| 4/27  | No Class                   |                               | [Report](https://github.com/iit-cs585/assignments/tree/master/project)        |              |
+| 4/25  | No Class                   |                               |          |              |
+| 4/27  | No Class                   |                               |     |              |
+| 4/28  |             |    | [A4](https://github.com/iit-cs585/assignments/tree/master/a4) &      [Report](https://github.com/iit-cs585/assignments/tree/master/project)   
 | 5/3   |           |         |      [presentation.pdf](https://github.com/iit-cs585/assignments/tree/master/project)       |          |
 | 5/4   | **Presentations**          |         |             |          |
 
