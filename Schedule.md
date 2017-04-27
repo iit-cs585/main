@@ -37,7 +37,7 @@
 | 4/27  | No Class                   |                               |     |              |
 | 4/28  |             |    | [A4](https://github.com/iit-cs585/assignments/tree/master/a4) &      [Report](https://github.com/iit-cs585/assignments/tree/master/project)   
 | 5/3   |           |         |      [presentation.pdf](https://github.com/iit-cs585/assignments/tree/master/project)       |          |
-| 5/4   | **Presentations**          |         |             |          |
+| 5/4   | **Presentations 10:30-12:30 SB 113**          |         |             |          |
 
 
 
